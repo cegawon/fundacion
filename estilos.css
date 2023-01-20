@@ -1,0 +1,19 @@
+    .logo{
+        margin-right: 1350px;
+    }
+    .hamburguesa{
+        display: block;
+    }
+
+
+
+
+
+@media (max-width:580px) {
+    .hamburguesa{
+        display: none;
+    }
+    .logo{
+        margin-left:500px;
+    }
+    }    
