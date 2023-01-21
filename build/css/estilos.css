@@ -1,5 +1,5 @@
 /* *********  HEADER  **************************** */  
-@media (min-width: 1000px) {
+@media (min-width: 1200px) {
 .logo1{
     margin-right: 1300px;  
     width: 400px;
@@ -85,7 +85,7 @@
 } 
 
 /* *********  INDEX   **************************** */ 
-@media (min-width: 1000px) {
+@media (min-width: 1200px) {
 body{
     margin-bottom: 300px;
 }
@@ -93,13 +93,13 @@ body{
     margin-top:50px ;    
 }
 .a1{
-    margin-left:200px;
+    margin-left:10px;
 }
 .a2{
-    margin-top: -850px; margin-left: 600px;   
+    margin-top: -780px; margin-left: 450px;   
 }    
 .a3{
-    margin-left: 350px; margin-right:100px;  border-bottom-left-radius: 35px;
+    margin-left: 350px; margin-right:300px;  border-bottom-left-radius: 35px;
 }
 .a4{
     margin-right: -120px;
@@ -112,11 +112,11 @@ body{
     margin-left:-180px;
 }
 .a7{
-    margin-top: -30px; margin-left: -300px;
+    margin-top: 10px; margin-left: -300px;
 }
 .a9{
     margin-top: -25px; 
-    margin-left: -300px;
+    margin-left: -180px;
     text-transform: none;
 }
 .a10{
@@ -170,7 +170,7 @@ body{
 .a27{
     margin-left: 200px;
     margin-right: -200px;
-    margin-top: 50px;
+    margin-top: 40px;
 }
 .a28{
     margin-right: -850px;
@@ -182,7 +182,7 @@ body{
     margin-left:10px;        
 }
 .botella{
-    margin-left: 30px;
+   margin-left: 30px;
    margin-bottom: -50px;
    width: 90px;  
 } 
@@ -198,6 +198,8 @@ body{
 .input-wrapper {
     position: relative;
     width: 271px;
+    align-items: center;
+    margin-left: -300px;
   }
   
   .input-icon {
