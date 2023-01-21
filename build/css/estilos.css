@@ -1,12 +1,12 @@
 /* *********  HEADER  **************************** */  
 @media (min-width: 1200px) {
 .logo1{
-    margin-right: 1300px;  
+    margin-left: -400px;      
     width: 400px;
     height:80px;    
 }
 .logo{
-    margin-left: 50px;
+    margin-right: -300px;
 }
 .hamburguesa{
     display: block;
@@ -25,7 +25,7 @@
     color: #132D1a;
 }
 .a22{
-    height: 100px; margin-left: 10px; margin-top:-15px; margin-bottom: -45px;
+    height: 100px; margin-left: -400px; margin-top:-15px; margin-bottom: -45px;
 }
 .a23{
     height: 100px; margin-right: 30px; margin-top:-15px; margin-bottom: -65px;
@@ -37,7 +37,7 @@
 
 .a25{
   width: 40px;
-  margin-left: -450px;
+  margin-left: 150px;
 }
 .linea{
     margin-top:15px;   
