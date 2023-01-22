@@ -1,5 +1,5 @@
 /* *********  HEADER  **************************** */  
-@media (min-width: 1200px) {
+@media (min-width: 760px) {
 .logo1{
     margin-left: -400px;      
     width: 400px;
@@ -48,7 +48,7 @@
 @media (max-width: 760px) {
 
 .navbar-toggler{
-    margin-left: 10px;
+    margin-right: 50px;
     margin-top: -90px;
 }
 .hamburguesa{
@@ -95,7 +95,7 @@
 } 
 
 /* *********  INDEX   **************************** */ 
-@media (min-width: 1200px) {
+@media (min-width: 760px) {
 body{
     margin-bottom: 300px;
 }
@@ -286,7 +286,7 @@ body{
         width:20%;
     }
     .a15{
-        margin-right:80px; text-transform: none;
+        margin-left:30px; text-transform: none;
     }
     .a21{
         font-size: 12px;
@@ -330,5 +330,6 @@ body{
     position: relative;
     width: 271px;    
     margin-left: 30px;
+    margin-top: -50px;
   }
 }
