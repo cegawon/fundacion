@@ -45,7 +45,7 @@
 }
 
 
-@media (max-width: 320px) {
+@media (max-width: 760px) {
 
 .navbar-toggler{
     margin-left: 10px;
@@ -223,7 +223,7 @@ body{
     transform: translateY(-50%);
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 760px) {
     .a5{
         margin-left: 10px; margin-right: 200px;
     } 
@@ -262,11 +262,11 @@ body{
         width: 80px;
      }
     .a7{
-        margin-top: 10px; margin-left: 15px;
+        margin-top: 10px; margin-left: -5px;
     }
   
     .a9{
-        margin-top: -25px; margin-left: 15px;
+        margin-top: -25px; margin-left: -5px;
         text-transform: none;
     }
     .a10{
